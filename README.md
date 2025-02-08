@@ -4,7 +4,7 @@ A Power BI dashboard analyzing SaaS Sales performance
 This Power BI dashboard provides insights into SaaS Sales performance, including revenue trends, customer segmentation, and profitability analysis.
 
 ## 📊 Dashboard Preview:
-![SaaS Sales Dashboard](images/SaaS_Sales.png)
+Refer SaaS_Sales.png
 
 ## 📁 Files Included:
 - SaaS_Sales Project.pbix → Power BI dashboard file  
